@@ -8,5 +8,10 @@
 			6. Tugas-php
 			7. Tugas-finalProject
    Daftar perintah GiT
-   ...
+   - Git Branch
+   - Git Commit
+   - Git Pull
+   - Git Merge
+   - Git Push
+   - Git Clone
   
