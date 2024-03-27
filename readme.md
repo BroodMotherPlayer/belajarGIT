@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
   <head>
     <meta charset = "utf-8">
@@ -7,6 +6,10 @@
   </head>
   <h1> Ini Website </h1>
   <body>
+  <ul>
+    <li><a href="#">Beranda</a></li>
+    <li><a href="#">Kontak</a></li>
+    <li><a href="#">Home</a></li>
   </body>
 </html>
 
